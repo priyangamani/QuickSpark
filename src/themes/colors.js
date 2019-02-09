@@ -1,0 +1,13 @@
+export const primary = '#3498db';
+export const secondary = '#ddd';
+export const pink='#FA3258';
+export const white='#FFFFFF';
+export const ash="#C0C0C0";
+export const yellow="#FFFC37";
+export const grey="#202f33";
+export const black="#000000";
+export const lightgrey="#d2d9db";
+export const red="#f0f0f0";
+export const transparent = 'transparent';
+export const darkblue="#294684";
+export const green="#03c66f";
