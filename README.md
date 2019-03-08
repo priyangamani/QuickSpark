@@ -4,7 +4,7 @@
 2.SignUp Screen
 3.Home
 4.Scan QR code
-5Custom QQ Code
+5.Custom QR Code
 
 
 1.Scan the Qr Code 
