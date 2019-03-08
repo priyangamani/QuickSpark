@@ -10,3 +10,4 @@
 1.Scan the Qr Code 
 2.Custom QR Code => Dynamic theme selection,upload image,change eye inner icon and outer eye icon of the code.
 3.Select the url based on that qr code will genereated Eg: (Using Youtube url,LinkedIn Url...)
+4.By using camera, capture the image and upload the image it will automatically render into QR code
